@@ -1,0 +1,8 @@
+node_modules/
+# ignore all directories named node_modules and all files in them?
+node_modules
+# ignore all files named node_modules?
+
+.DS_Store
+.idea/
+dist/
