@@ -1,10 +1,9 @@
 import React from "react";
+import ExpenseItem from "./components/ExpenseItem";
 
 const App = () => {
     return (
-        <div>
-            <h1>Hello World!!!</h1>
-        </div>
+        <ExpenseItem />
     );
 };
 
