@@ -1,0 +1,27 @@
+.date {
+    display: flex;
+    flex-direction: column;
+    width: 5.5rem;
+    height: 5.5rem;
+    border: 3px solid #9FC088;
+    background-color: #B4E197;
+    color: #FAFDD6;
+    font-weight: bold;
+    border-radius: 12px;
+    justify-content: center;
+    padding-left: 12px;
+}
+
+.month {
+    font-size: 0.75rem;
+    font-weight: bold;
+}
+
+.year {
+    font-size: 0.75rem;
+}
+
+.day {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

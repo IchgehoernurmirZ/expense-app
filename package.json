@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "1.0.0",
-  "description": "",
+  "title": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
